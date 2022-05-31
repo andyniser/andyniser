@@ -1,1 +1,1 @@
-Student exploring the world of programming and Data Science primarily using Python and SQL. Currently taking a Data Structures and Algorithms course and self-studying new Data Science concepts on Codecademy.
+
