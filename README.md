@@ -12,7 +12,7 @@ I'm Andy Niser, a data scientist based in Tennessee. I specialize in using data 
   <img src="https://s.yimg.com/ny/api/res/1.2/SuLXzz.7XvrGGxBYWqr.pQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyMw--/https://s.yimg.com/os/creatr-uploaded-images/2023-02/38805df0-a820-11ed-beff-15e5d6554c19">
 </p>
 
-#### 💼: Previously
+#### 💼 Previously
 
 * [Trane Technologies](https://tranetechnologies.com): Supply Pricing Team
 * [Burgundy Group](https://burgundygroup.com): Data Analytics + Digital Media
