@@ -4,19 +4,18 @@ I'm Andy Niser, a data scientist based in Tennessee. I specialize in using data 
 
 **<p align="center"> Analytics & Strategy @ [Fort Lauderdale United FC](https:/ftlutd.com) </p>**
 <p align="center" width="140" height="112.43">
-  <img src="[https://media.giphy.com/media/rlJIcm72Sw5jEWfxRN/giphy.gif](https://www.ftlutd.com/wp-content/uploads/sites/152/2024/03/FTL-UTD-identity-2-1.png)">
+  <img src="ftlutd_logo.jpeg">
 </p>
 
-**<p align="center"> Computer Science @ Vanderbilt </p>**
-<p align="center" width="140" height="112.43">
-  <img src="https://s.yimg.com/ny/api/res/1.2/SuLXzz.7XvrGGxBYWqr.pQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyMw--/https://s.yimg.com/os/creatr-uploaded-images/2023-02/38805df0-a820-11ed-beff-15e5d6554c19">
-</p>
 
 #### 💼 Previously
 
-* [One Knoxville SC] (https://oneknoxsc.com): Analytics & Strategy
+* [One Knoxville SC](https://oneknoxsc.com): Data Analytics
 * [Trane Technologies](https://tranetechnologies.com): Supply Pricing Team
 * [Burgundy Group](https://burgundygroup.com): Data Analytics + Digital Media
+
+#### 📚 Education
+* Computer Science @ Vanderbilt University
 
 #### 👨‍💻 My Tech Stack
 <div align="center">
