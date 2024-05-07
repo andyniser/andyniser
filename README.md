@@ -1,10 +1,10 @@
 ### Goal-geous Data
 
-I'm Andy Niser, a data scientist based in Tennessee. I specialize in using data to inform growth strategy. I also enjoy soccer analytics and have experience working with event data, performance data, and building player scouting models. 
+I'm Andy Niser, a data scientist based in Tennessee. I specialize in using data to inform growth strategy.
 
-**<p align="center"> Analytics & Strategy @ [One Knoxville SC](https:/oneknoxsc.com) </p>**
+**<p align="center"> Analytics & Strategy @ [Fort Lauderdale United FC](https:/ftlutd.com) </p>**
 <p align="center" width="140" height="112.43">
-  <img src="https://media.giphy.com/media/rlJIcm72Sw5jEWfxRN/giphy.gif">
+  <img src="[https://media.giphy.com/media/rlJIcm72Sw5jEWfxRN/giphy.gif](https://www.ftlutd.com/wp-content/uploads/sites/152/2024/03/FTL-UTD-identity-2-1.png)">
 </p>
 
 **<p align="center"> Computer Science @ Vanderbilt </p>**
@@ -14,6 +14,7 @@ I'm Andy Niser, a data scientist based in Tennessee. I specialize in using data 
 
 #### 💼 Previously
 
+* [One Knoxville SC] (https://oneknoxsc.com): Analytics & Strategy
 * [Trane Technologies](https://tranetechnologies.com): Supply Pricing Team
 * [Burgundy Group](https://burgundygroup.com): Data Analytics + Digital Media
 
@@ -71,9 +72,6 @@ I'm Andy Niser, a data scientist based in Tennessee. I specialize in using data 
     </tr>
 </table>
 </div>
-
-#### 🔭 Research
-I am a researcher with the STIR Lab. I focus on adolescent online risk under the domain of human-computer interaction. Our latest publication will be shared at CHI 2024 in May.
 
 ----
 
