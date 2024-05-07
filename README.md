@@ -2,7 +2,7 @@
 
 I'm Andy Niser, a data scientist based in Tennessee. I specialize in using data to inform growth strategy.
 
-**<p align="center"> Analytics & Strategy @ [Fort Lauderdale United FC](https:/ftlutd.com) </p>**
+**<p align="center"> Analytics & Strategy @ [Fort Lauderdale United FC](https://ftlutd.com) </p>**
 <p align="center" width="140" height="112.43">
   <img src="ftlutd_logo.jpeg">
 </p>
