@@ -2,14 +2,14 @@
 
 I'm Andy Niser, a data scientist based in Tennessee. I specialize in using data to inform growth strategy.
 
-**<p align="center"> Analytics & Strategy @ [Fort Lauderdale United FC](https://ftlutd.com) </p>**
+**<p align="center"> Analytics & Strategy @ [DataCore Strategy Group](https://datacorestrategygroup.com) </p>**
 <p align="center" width="140" height="112.43">
-  <img src="ftlutd_logo.jpeg">
+  <img src="datacore_logo.jpeg">
 </p>
 
 
 #### 💼 Previously
-
+* [Fort Lauderdale United FC](https://ftlutd.com): Strategy & Analytics
 * [One Knoxville SC](https://oneknoxsc.com): Data Analytics
 * [Trane Technologies](https://tranetechnologies.com): Supply Pricing Team
 * [Burgundy Group](https://burgundygroup.com): Data Analytics + Digital Media
