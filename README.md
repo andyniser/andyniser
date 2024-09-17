@@ -15,7 +15,7 @@ I'm Andy Niser, a data scientist based in Tennessee. I specialize in using data 
 * [Burgundy Group](https://burgundygroup.com): Data Analytics + Digital Media
 
 #### 📚 Education
-* Computer Science @ Vanderbilt University
+* Vanderbilt University
 
 #### 👨‍💻 My Tech Stack
 <div align="center">
