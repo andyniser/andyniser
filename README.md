@@ -4,7 +4,7 @@ I'm Andy Niser, a data scientist based in Tennessee. I specialize in using data 
 
 **<p align="center"> Analytics & Strategy @ [DataCore Strategy Group](https://datacorestrategygroup.com) </p>**
 <p align="center" width="140" height="112.43">
-  <img src="datacore_logo.jpeg">
+  <img src="DataCore-2.png" width="180px"/>
 </p>
 
 
