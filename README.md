@@ -8,8 +8,9 @@ I'm Andy Niser, a data scientist based in Tennessee. I specialize in using data 
 </p>
 
 
-#### 💼 Previously
-* [Fort Lauderdale United FC](https://ftlutd.com): Strategy & Analytics
+#### 💼 Experience
+* [Westchester SC](https://westchestersc.com): Data Analytics & Expansion Strategy
+* [Fort Lauderdale United FC](https://ftlutd.com): Data Analytics & Expansion Strategy
 * [One Knoxville SC](https://oneknoxsc.com): Data Analytics
 * [Trane Technologies](https://tranetechnologies.com): Supply Pricing Team
 * [Burgundy Group](https://burgundygroup.com): Data Analytics + Digital Media
