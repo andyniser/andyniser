@@ -1,22 +1,17 @@
-### Goal-geous Data
+### DataCore Strategy Group
 
-I'm Andy Niser, a data scientist based in Tennessee. I specialize in using data to inform growth strategy.
+I'm Andy Niser, founder and operator of **[DataCore Strategy Group](https://datacorestrategygroup.com)**, based in Fort Lauderdale.
 
-**<p align="center"> Analytics & Strategy @ [DataCore Strategy Group](https://datacorestrategygroup.com) </p>**
-<p align="center" width="140" height="112.43">
+I serve as a fractional leader to executives of growing SaaS, CPG, Ecommerce, Info Offers, Homebuilding, and Sports companies. I specialize in delivering comprehensive Go-To-Market strategy and systems implementation that drives sustainable growth.
+
+**Background**
+* Masters degree in Human & Organizational Development from Vanderbilt University
+* Research focus in Human-Computer Interaction
+* Data-driven approach grounded in organizational psychology and strategic execution
+
+**<p align="center">
   <img src="DataCore-2.png" width="180px"/>
-</p>
-
-
-#### 💼 Experience
-* [Westchester SC](https://westchestersc.com): Data Analytics & Expansion Strategy
-* [Fort Lauderdale United FC](https://ftlutd.com): Data Analytics & Expansion Strategy
-* [One Knoxville SC](https://oneknoxsc.com): Data Analytics
-* [Trane Technologies](https://tranetechnologies.com): Supply Pricing Team
-* [Burgundy Group](https://burgundygroup.com): Data Analytics + Digital Media
-
-#### 📚 Education
-* Vanderbilt University
+</p>**
 
 #### 👨‍💻 My Tech Stack
 <div align="center">
@@ -75,4 +70,4 @@ I'm Andy Niser, a data scientist based in Tennessee. I specialize in using data 
 
 ----
 
-For more information and to get in touch, please reach out to me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.vandy.link/andy)
+**Learn more about my work and experience on [LinkedIn](https://www.vandy.link/andy)** or visit [DataCore Strategy Group](https://datacorestrategygroup.com)
