@@ -6,4 +6,4 @@ I serve as a fractional leader to executives of growing SaaS, CPG, Ecommerce, In
 
 ---
 
-**Learn more about my work and experience on [LinkedIn](https://www.vandy.link/andy)** or visit [DataCore Strategy Group](https://datacorestrategygroup.com)
+**Learn more about my work and experience on [LinkedIn](https://linkedin.com/in/andyniser)** or visit [DataCore Strategy Group](https://datacorestrategygroup.com)
